@@ -1,6 +1,6 @@
 {
-    "name": "Sonic AVS Token",
-    "symbol": "sonicsSOL",
+    "name": "Sonic Restaked SOL",
+    "symbol": "sonicSOL",
     "description": "Sonic's Solayer AVS Token",
     "image": "https://raw.githubusercontent.com/solayer-labs/token-metadata/main/endoavs/sonic/sonic.jpeg"
 }
